@@ -1,0 +1,6 @@
+lxml
+python-decouple
+pyspark==3.5.6
+apache-airflow-providers-apache-spark
+requests
+pandas

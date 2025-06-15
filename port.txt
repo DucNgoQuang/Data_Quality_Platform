@@ -1,0 +1,6 @@
+spark-master web ui : 8081
+spark://spark-master
+
+delta-storage-3.3.1
+
+!connect jdbc:hive2://localhost:10000
