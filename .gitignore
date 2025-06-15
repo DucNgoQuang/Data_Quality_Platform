@@ -247,8 +247,5 @@ config/*.secret.yml
 *.local
 *.venv
 *.env
-dqops/*
-metastore_db/*
-minio/*
 superset/data/*
 data/nyc_menu.csv
