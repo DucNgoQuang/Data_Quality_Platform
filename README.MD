@@ -7,7 +7,7 @@ This project utilizes DQOps for data quality checks, and using Data Lakehouse ar
 
 ## 2.System architecture
 
-<img src='asset/System_architecture' alt='System architecture' >
+<img src='asset/System_architecture.png' alt='System architecture' >
 
 ## 3.Set up guildline
 
