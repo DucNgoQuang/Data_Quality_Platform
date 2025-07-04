@@ -1,9 +1,9 @@
 # Data quality Platform 
 
 # 1.Description
-This is the repostiory for Viettel Digital Talent Phase 1's project - Data quality platform with DQOps.
+This is the repostiory for Viettel Digital Talent 2025 Phase 1's project - Data quality platform with DQOps.
 
-This project utilizes DQOps for data quality checks, and using Data Lakehouse architecture for storage and query engine
+This project utilizes DQOps for data quality checks, and using Data Lakehouse architecture for storage and BI use cases
 
 ## 2.System architecture
 
