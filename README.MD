@@ -102,8 +102,11 @@ LOCATION 's3a://dqops/check_results/';
 
 ## 4.Results 
 
+### General Dashboard
 <img src='asset/general_dashboard_1.png' alt='General dashboard'>
 
 <img src='asset/general_dashboard_2.png' alt='General dashboard'>
 
+
+### Specific Dashboard
 <img src='asset/specific_dashboard.png' alt='Detail dashboard'>
